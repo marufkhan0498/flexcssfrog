@@ -7,13 +7,6 @@ Read [this blog post](https://thomaspark.co/2015/11/learning-css-layout-with-fle
 
 ![FontCDN screenshot](./images/screenshot.png)
 
-## Author
-
-Thomas Park
-
-* [Twitter](https://twitter.com/thomashpark)
-* [Homepage](https://thomaspark.co)
-* [GitHub](https://github.com/thomaspark)
 
 ## Translators
 
@@ -61,7 +54,3 @@ My gratitude to these contributors for localizing Flexbox Froggy. This is what o
 * Vietnamese by [Kingsten Banh](https://github.com/kingstenbanh)
 
 Don't see your language on the list? Contribute a translation! Fork the [repo](https://github.com/thomaspark/flexboxfroggy/), add your translations, and submit a pull request.
-
-## Copyright and License
-
-Copyright 2015-2021 Thomas Park. Code released under [the MIT License](https://github.com/thomaspark/flexboxfroggy/blob/gh-pages/LICENSE). Images released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/legalcode.txt).
